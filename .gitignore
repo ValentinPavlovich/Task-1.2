@@ -14,7 +14,4 @@ Thumbs.db
 .DS_Store
 
 # Будут игнорироваться файлы, находящиеся в подкаталоге __MACOSX
-__MACOSX/
-
-# Будут игнорироваться файлы, находящиеся в подкаталоге 1.2. Site For Import
-/1.2. Site For Import/
+MACOSX/
