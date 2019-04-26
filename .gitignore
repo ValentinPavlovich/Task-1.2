@@ -17,4 +17,4 @@ Thumbs.db
 __MACOSX/
 
 # Будут игнорироваться файлы, находящиеся в подкаталоге 1.2. Site For Import
-1.2. Site For Import/
+__MACOSX/1.2. Site For Import/
